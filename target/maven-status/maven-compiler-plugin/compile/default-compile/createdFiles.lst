@@ -1,0 +1,7 @@
+br\com\matheusandrad3\apresentation_api\models\Email.class
+br\com\matheusandrad3\apresentation_api\service\EmailService.class
+br\com\matheusandrad3\apresentation_api\controller\EmailController.class
+br\com\matheusandrad3\apresentation_api\repository\EmailRepository.class
+br\com\matheusandrad3\apresentation_api\Application.class
+br\com\matheusandrad3\apresentation_api\config\CorsConfig.class
+br\com\matheusandrad3\apresentation_api\dto\EmailDto.class
