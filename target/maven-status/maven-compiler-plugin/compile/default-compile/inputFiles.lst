@@ -2,6 +2,8 @@ C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\service\EmailService.java
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\models\Email.java
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\Application.java
+C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\config\MailConfig.java
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\dto\EmailDto.java
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\config\CorsConfig.java
 C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\repository\EmailRepository.java
+C:\Users\00787787\Desktop\Matheus\apresentation\apresentation.API\src\main\java\br\com\matheusandrad3\apresentation_api\service\AmazonSESCA.java

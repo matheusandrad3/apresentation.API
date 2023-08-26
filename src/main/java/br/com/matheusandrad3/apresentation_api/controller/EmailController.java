@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.mail.MessagingException;
+import java.io.UnsupportedEncodingException;
+
 @RestController
 @RequestMapping("api/message")
 public class EmailController {
@@ -19,7 +22,7 @@ public class EmailController {
     }
 
     @PostMapping
-    public ResponseEntity<String> sendMessage(@RequestBody Email message) {
+    public ResponseEntity<String> sendMessage(@RequestBody Email message) throws MessagingException, UnsupportedEncodingException {
         emailService.sendEmail(message);
         return ResponseEntity.ok("Mensagem enviada com sucesso!");
     }
