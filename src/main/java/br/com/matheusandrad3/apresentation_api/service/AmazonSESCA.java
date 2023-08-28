@@ -17,7 +17,7 @@ public class AmazonSESCA {
         String TO = "matheusandradedesouza77@gmail.com";
         String SMTP_USERNAME = "SUA CREDENCIAL";
         String SMTP_PASSWORD = "SUA CREDENCIAL";
-        String HOST = "email-smtp.us-east-1.amazonaws.com";
+        String HOST = "SEU HOST";
         int PORT = 587;
         String SUBJECT = email.getSubject();
         String BODY = "<h1>Nome: </h1>" + email.getName() +
